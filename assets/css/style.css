@@ -459,6 +459,9 @@ body.nav-open .burger::after { inset-block-start: 21px; transform: rotate(-45deg
 }
 .plan--best .plan__price { color: #fff; border-block-end-color: rgba(255,255,255,.2); }
 .plan__amt { font-size: clamp(2rem, 4vw, 2.7rem); line-height: 1; }
+/* "on request" is words, not digits — at display size it wraps and towers over
+   the numeric tiers beside it */
+.plan__amt--ask { font-size: clamp(1.3rem, 2.2vw, 1.6rem); line-height: 1.25; }
 .plan__cur { font-size: 1.05rem; color: var(--gold); }
 .plan__per { font-family: var(--ff-body); font-weight: 500; font-size: .88rem; color: var(--text-2); }
 .plan--best .plan__per { color: #9ab0c8; }
