@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 60" role="img" aria-label="العميل الثالث">
+  <g color="#0d2a4a">
+    <g transform="translate(152,4)"><rect x="12" y="12" width="28" height="28" rx="7" fill="none" stroke="currentColor" stroke-width="3.2"/><rect x="21" y="21" width="10" height="10" rx="2.5" fill="currentColor"/></g>
+    <text x="134" y="27" text-anchor="end" font-family="Tajawal, Cairo, sans-serif"
+          font-size="17" font-weight="700" fill="currentColor">العميل الثالث</text>
+    <text x="134" y="45" text-anchor="end" font-family="Tajawal, Cairo, sans-serif"
+          font-size="10" font-weight="500" fill="currentColor" opacity=".55">شعار افتراضي</text>
+  </g>
+</svg>

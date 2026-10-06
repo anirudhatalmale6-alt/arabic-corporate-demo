@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 60" role="img" aria-label="العميل الرابع">
+  <g color="#0d2a4a">
+    <g transform="translate(152,4)"><path d="M13 38c0-13 7-23 13-23s13 10 13 23" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"/><circle cx="26" cy="38" r="3.4" fill="currentColor"/></g>
+    <text x="134" y="27" text-anchor="end" font-family="Tajawal, Cairo, sans-serif"
+          font-size="17" font-weight="700" fill="currentColor">العميل الرابع</text>
+    <text x="134" y="45" text-anchor="end" font-family="Tajawal, Cairo, sans-serif"
+          font-size="10" font-weight="500" fill="currentColor" opacity=".55">شعار افتراضي</text>
+  </g>
+</svg>
